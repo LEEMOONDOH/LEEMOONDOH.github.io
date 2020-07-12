@@ -759,6 +759,13 @@ a {
   margin: 4px 8px;
 }
 
+      .sidebar {
+        width: 250px;
+      }
+      .main-container {
+        margin-left: 250px;
+      }
+    
       .post-item .right .feature-container {
         border-radius: 5px;
       }
